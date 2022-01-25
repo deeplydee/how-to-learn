@@ -224,10 +224,53 @@
   text-decoration: none;
 }
 
+.kaufman {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  background-color: #1f1f1f;
+}
+
+.kaufman_space_top-bottom {
+  padding: 90px 0;
+}
+
+.section-title_theme_dark {
+  color: white;
+  z-index: 1;
+}
+
+.section-subtitle_theme_dark {
+  color: white;
+  z-index: 1;
+}
+
+.table_theme_dark {
+  z-index: 1;
+}
+
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
   color: white;
   margin-right: 0;
   margin-top: 80px;
+}
+
+.table__heading_theme_dark {
+  margin-bottom: 20px;
+}
+
+.table__text_theme_dark {
+  margin: 0;
+}
+
+.kaufman__triangle {
+  position: absolute;
+  right: -210px;
+  top: -5px;
+  width: 877px;
+  height: 877px;
 }

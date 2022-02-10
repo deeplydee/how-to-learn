@@ -8,4 +8,6 @@
 
 	background-image: url(../../../images/kaufman-triangle.svg);
 	background-size: contain;
+
+  animation: rotation 20s linear infinite;
 }

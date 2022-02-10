@@ -8,3 +8,8 @@
 	line-height: 30px;
 	text-decoration: none;
 }
+
+.footer__column-link:hover {
+  opacity: .3;
+  transition: opacity .4s ease;
+}

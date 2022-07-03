@@ -20,3 +20,6 @@
 * GitHub
 * Bash
 * БЭМ
+
+### Ссылка на проект
+* [Ссылка на веб-сайт](https://deeplydee.github.io/how-to-learn/index.html)
